@@ -7,6 +7,9 @@
 <h1 align="center">Unlimited OCR Works</h1>
 
 <div align="center">
+
+<a href="https://trendshift.io/repositories/62053?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-62053" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/62053/daily" alt="baidu%2FUnlimited-OCR | Trendshift" width="250" height="55"/></a>
+  
   <a href="https://github.com/baidu/Unlimited-OCR">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" />
   </a>
